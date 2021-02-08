@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800405265706",
+    "firebase_url": "https://lifestack-1.firebaseio.com",
+    "project_id": "lifestack-1",
+    "storage_bucket": "lifestack-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800405265706:android:242df324d64cff10c9d253",
+        "android_client_info": {
+          "package_name": "com.lifestack.lifestack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800405265706-58h4jqvr2a3j6pp3jnvv2q23vng6rqd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCis09DHojCJWk6HE4nXG3R9Frn69xXTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800405265706-58h4jqvr2a3j6pp3jnvv2q23vng6rqd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

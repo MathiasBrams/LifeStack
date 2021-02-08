@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Non Zero</string>
+    <string name="facebook_app_id">201256011282384</string>
+    <string name="fb_login_protocol_scheme">fb201256011282384</string>
+</resources>
